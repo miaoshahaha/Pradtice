@@ -1,2 +1,2 @@
-# Pradtice
+# Practice
 For Practice
